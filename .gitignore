@@ -1,0 +1,5 @@
+# Extensions
+*.bak
+
+# Folders
+.vs/*
