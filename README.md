@@ -1,9 +1,7 @@
 # LC_JaqEmployeeGuide
-Lethal Company modpack for my friends. You know who you are 👁️   👁️ (otherwise, this isn't meant for you).
+This modpack aims to make a few additions to the game without being too intrusive.
 
-This aims to make a few additions to the game without being too intrusive.
-
-This modpack also includes preset configurations.
+It also includes preset configurations.
 
 ## Major adjustments
 
