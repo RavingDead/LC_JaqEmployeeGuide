@@ -1,5 +1,5 @@
-# Extensions
 *.bak
+*.zip
 
-# Folders
 .vs/*
+.git/*
