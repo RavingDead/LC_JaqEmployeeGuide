@@ -12,6 +12,7 @@ Only masked enemies will play player voicelines for true immersion :)
 
 ### Weather Multipliers
 Slight adjustments to mult values:
+
 | **Weather** | **Multipliers** |
 |-------------|:---------------:|
 | Rainy       | 1.05            |

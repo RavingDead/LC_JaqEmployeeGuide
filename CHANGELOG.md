@@ -1,3 +1,7 @@
+### 0.2.1
+- Increased voicelines rate for skinwalker (once per 15-40 seconds -> once per 5-13 seconds)
+- Added vaporeon outfit
+
 ### 0.2.0
 - Added BetterEmotes
 
