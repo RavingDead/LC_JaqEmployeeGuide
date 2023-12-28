@@ -1,6 +1,6 @@
 {
     "name": "JaqEmployeeGuide",
-    "version_number": "0.2.1",
+    "version_number": "0.2.2",
     "description": "Modpack for my friends. You know who you are 👁️   👁️ (otherwise, this isn't meant for you)",
     "website_url": "https://github.com/RavingDead/LC_JaqEmployeeGuide",
     "dependencies": [
@@ -17,7 +17,7 @@
 		"Hexnet111-SuitSaver-1.1.2",
 		"Ryokune-CompatibilityChecker-1.1.6",
 		"Evaisa-HookGenPatcher-0.0.5",
-		"Evaisa-LethalLib-0.8.0",
+		"Evaisa-LethalLib-0.9.0",
 		"quackandcheese-MirrorDecor-1.1.6",
 		"RugbugRedfern-Skinwalkers-2.0.1",
 		"Suskitech-AlwaysHearActiveWalkies-1.4.3",
