@@ -1,3 +1,8 @@
+### 0.3.0
+- Made hewatches always available
+- Made skinwalker masked enemies more mimic-like
+- Removed dependencies from other mods from this list of dependencies
+
 ### 0.2.2
 - He watches
 
