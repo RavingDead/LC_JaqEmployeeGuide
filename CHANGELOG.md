@@ -1,3 +1,6 @@
+### 0.3.1
+- Updated Readme
+
 ### 0.3.0
 - Made hewatches always available
 - Made skinwalker masked enemies more mimic-like

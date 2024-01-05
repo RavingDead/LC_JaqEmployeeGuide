@@ -1,5 +1,5 @@
 # LC_JaqEmployeeGuide
-Lethal Company modpack for my friends. You know who you are 👁️   👁️ (otherwise, this isn't meant for you).
+Lethal Company modpack for my friends. You know who you are 👁️   👁️
 
 This aims to make a few additions to the game without being too intrusive.
 
@@ -9,6 +9,9 @@ This modpack also includes preset configurations.
 
 ### Skinwalker
 Only masked enemies will play player voicelines for true immersion :)
+
+### Masked Enemy Overhaul
+Everything from this mod is disabled except for the part where it picks outfits from player in the game. This makes masked enemies more like mimics, but not impossible to spot.
 
 ### Weather Multipliers
 Slight adjustments to mult values:
