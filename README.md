@@ -27,3 +27,4 @@ Slight adjustments to mult values:
 ## Minor adjustments
 - Mirror decor: Made it so the mirror isn't always available (so it feels extra precious)
 - Helmet cameras: Framerate for camera reduced to 10fps for performance & style
+- Custom skins

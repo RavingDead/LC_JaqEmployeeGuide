@@ -1,3 +1,7 @@
+### 0.4.0
+- Beemo
+- Added Coroner, Hungry Company and Cleaner Logs
+
 ### 0.3.1
 - Updated Readme
 
