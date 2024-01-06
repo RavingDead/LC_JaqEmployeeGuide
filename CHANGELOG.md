@@ -1,5 +1,9 @@
+### 0.4.1
+- Ceasar Suit
+- Miku Suit (Modified from Boywyfe)
+
 ### 0.4.0
-- Beemo
+- Beemo Suit
 - Added Coroner, Hungry Company and Cleaner Logs
 
 ### 0.3.1
