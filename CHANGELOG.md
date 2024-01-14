@@ -1,3 +1,6 @@
+### 0.4.2
+- Trashman (why rocky)
+
 ### 0.4.1
 - Ceasar Suit
 - Miku Suit (Modified from Boywyfe)
