@@ -1,3 +1,13 @@
+### 0.5.0
+!!!WARNING!!!
+Mods have been removed from this modpack. If you wish to continue, I recommend either resetting your profile or remove the mods that have been removed as stated in the changelog.
+- Updated versionning of modlist for new update
+- Removed CompatibilityChecker (deprecated), AdditionalSuits and AdditionalContentFramework (dependency)
+  - Merged color suits from Additional suits into this mod
+- Big QoL patch (GeneralImprovements, FlashlightToggle, LethalExpansion, NameplateTweaks)
+- Removed extra quotes from coroner (in bigger lobbies, makes it hard to see what happened to who when everyone has a report)
+- More funnies
+
 ### 0.4.2
 - Trashman (why rocky)
 

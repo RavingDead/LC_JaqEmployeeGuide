@@ -25,7 +25,11 @@ Slight adjustments to mult values:
 | Eclipsed    | 1.5             |
 
 ## Minor adjustments
-- Mirror decor: Made it so the mirror isn't always available (so it feels extra precious)
+- Coroner: Removed funny notes (too crowded, makes it hard to see who died)
+- GeneralImprovements: Mostly left as is, but removed things like the extra monitor info (too crowded)
 - Helmet cameras: Framerate for camera reduced to 10fps for performance & style
-- Custom skins
-  - Miku skin is modified from Boywyfe's skin
+- Mirror decor: Made it so the mirror isn't always available (so it feels extra precious)
+- Suits
+
+## Attributions
+- Miku skin is modified from Boywyfe's skin (added glow in the dark + minor modifications)
