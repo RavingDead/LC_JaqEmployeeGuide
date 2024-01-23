@@ -1,6 +1,17 @@
+### 0.5.1
+[Mods removed. Profile reset may be required for modpack compatibility.]
+- Added LethalThings
+  - Highly customized. Kept mostly things that affected gameplay in a 'vanilla' feeling way and tweaked some of the pricing for progression.
+- Added a soul to coilheads, somewhat...
+- Amongus ඞ
+- Removed 2 mods
+  - Replaced BetterEmotes for More_Emotes (adds new things on 9 and 0 (or scroll down when holding the emote wheel key (v on keyboard)))
+  - Replaced MetalRecharging for LethalThings' solution
+- Updated manifest to latest version, sorted by mod name alphabetical order (it annoyed me)
+
+
 ### 0.5.0
-!!!WARNING!!!
-Mods have been removed from this modpack. If you wish to continue, I recommend either resetting your profile or remove the mods that have been removed as stated in the changelog.
+[Mods removed. Profile reset may be required for modpack compatibility.]
 - Updated versionning of modlist for new update
 - Removed CompatibilityChecker (deprecated), AdditionalSuits and AdditionalContentFramework (dependency)
   - Merged color suits from Additional suits into this mod

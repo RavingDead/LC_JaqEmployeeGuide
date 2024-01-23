@@ -7,6 +7,14 @@ This modpack also includes preset configurations.
 
 ## Major adjustments
 
+### LethalThings
+Mostly kept what felt 'vanilla' and tweaked prices for progression reasons.
+- Rocket Launcher is now "end-game" pricing (900)
+- Most plushies have been disabled
+- Removed rugs
+- Removed most scrap items (except Maxwell <3)
+- Removed pinger
+
 ### Skinwalker
 Only masked enemies will play player voicelines for true immersion :)
 
