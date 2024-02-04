@@ -1,3 +1,10 @@
+### 0.5.2
+- Updated dependencies versions
+- Garfield Suit
+- Made color suits purchaseable instead
+- Remove sell limit
+- Brought LethalThings back (was not added last patch oops)
+
 ### 0.5.1
 [Mods removed. Profile reset may be required for modpack compatibility.]
 - Added LethalThings
@@ -8,7 +15,6 @@
   - Replaced BetterEmotes for More_Emotes (adds new things on 9 and 0 (or scroll down when holding the emote wheel key (v on keyboard)))
   - Replaced MetalRecharging for LethalThings' solution
 - Updated manifest to latest version, sorted by mod name alphabetical order (it annoyed me)
-
 
 ### 0.5.0
 [Mods removed. Profile reset may be required for modpack compatibility.]
