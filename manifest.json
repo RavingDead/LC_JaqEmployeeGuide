@@ -1,6 +1,6 @@
 {
     "name": "JaqEmployeeGuide",
-    "version_number": "0.5.2",
+    "version_number": "0.5.3",
     "description": "[WARNING] Some mods removed, profile reset may be required!\nModpack for my friends. You know who you are 👁️   👁️",
     "website_url": "https://github.com/RavingDead/LC_JaqEmployeeGuide",
     "dependencies": [
@@ -10,6 +10,7 @@
 		"TwinDimensionalProductions-CoilHeadStare-1.0.4",
 		"EliteMasterEric-Coroner-1.5.3",
 		"Renegades-FlashlightToggle-1.5.0",
+		"ravingdead-FriendlyCompany-1.0.1",
 		"ShaosilGaming-GeneralImprovements-1.1.7",
 		"RickArg-Helmet_Cameras-2.1.5",
 		"nihl-HungryCompany-1.1.0",

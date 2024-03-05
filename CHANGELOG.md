@@ -1,3 +1,7 @@
+### 0.5.3
+- Bees (wow I made that one)
+- Fixed issue with GeneralImprovements' config where non-client users starting the game breaks the lobby.
+
 ### 0.5.2
 - Updated dependencies versions
 - Garfield Suit
